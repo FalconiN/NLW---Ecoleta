@@ -2,13 +2,13 @@
 
 ## Tecnologias Utilizadas
 
-HTML
-CSS
-JavaScript
-Node.js
-SQLite
+HTML |
+CSS |
+JavaScript |
+Node.js |
+SQLite 
 
-##Sobre
+## Sobre
 
 O Projeto ecoleta feito pelo bootcamp da Rocketseat tem a finalizade de coletar de residuos para reciclagem. 
 
